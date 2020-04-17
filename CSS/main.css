@@ -1,0 +1,64 @@
+/* 
+premiery color #55efc4
+secondary color  #55efc4
+*/
+
+.background {
+    background-color: #ecf0f1;
+}
+
+.background-footer {
+    background-color: #343a40;
+}
+
+.first-color {
+    color: #343a40;
+}
+
+.second-color {
+    color: #55efc4;
+}
+
+div.card:hover {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
+    width: 101%;
+}
+
+.btn-outline-success {
+    color: #55efc4 !important;
+    border-color: #55efc4 !important;
+}
+
+.btn-outline-success:hover {
+    color: #343a40!important;
+    background-color: #55efc4;
+}
+
+.img-logo-size {
+    width: 32px;
+    height: auto;
+}
+
+.nav-link:hover {
+    color: #55efc4 !important;
+}
+
+.btn-style {
+    color: #343a40!important;
+    background-color: #55efc4 !important;
+}
+
+.list-group>.list-group-item {
+    background-color: #343a40!important;
+    color: white!important;
+}
+
+ul#social-media {
+    background-color: #343a40!important;
+    color: white!important;
+}
+
+.link:hover {
+    color: #55efc4 !important;
+    cursor: pointer;
+}
